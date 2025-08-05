@@ -1,7 +1,7 @@
 
 ### Hi there, I am Gideon 👋
 
-- 🔭 I’m currently working at Dust Identity
+- 🔭 I’m currently working at DUST Identity
 
 <a href="https://twitter.com/jaredpalmer/status/1142800704580591617">![Kapture 2020-07-06 at 9 16 15](https://user-images.githubusercontent.com/4060187/86597470-c4a76f00-bf69-11ea-9cab-3a50c4144893.gif)</a> 
 
